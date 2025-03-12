@@ -44,5 +44,13 @@ Architecture :
 
 <img width="888" alt="Architecture" src="https://github.com/user-attachments/assets/38913a28-5282-4f68-83ab-70e05b169c26" />
 
+## Real-Time Dashboard with Grafana:
+
+<img width="552" alt="dashboard" src="https://github.com/user-attachments/assets/bee4fbd9-d62b-413c-96bb-acf1cb733752" />
+
+- **Minimum Buy Price Gauges**: Displays the minimum buying price for cryptocurrency from three different exchanges: Bitstamp, Bitfinex, and Kraken.  
+- **Latest Buy and Sell Trade Panels**: Shows the most recent buying and selling trades with prices and timestamps.  
+- **Maximum Sell Price Gauges**: Displays the maximum selling price on the same exchanges.  
+
 ## Result
 The project successfully demonstrated a scalable and privacy-preserving system for real-time arbitrage detection in cryptocurrency markets. It efficiently identified price differences across exchanges, enabling profitable arbitrage opportunities. The Real-Time Dashboard in Grafana provided interactive visualizations, including minimum buy price gauges for cryptocurrencies across Bitstamp, Bitfinex, and Kraken, along with latest buy and sell trade panels displaying real-time price updates and timestamps.
